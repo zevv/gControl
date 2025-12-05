@@ -1,4 +1,4 @@
-from bpy_types import PropertyGroup
+from bpy.types import PropertyGroup
 from bpy.props import StringProperty, IntProperty, BoolProperty, EnumProperty, FloatProperty
 
 
